@@ -1,0 +1,8 @@
+{
+  "name": "Chatbot",
+  "version": "1.0.0",
+  "description": "It might be able to talk soon",
+  "main": "bot.js",
+  "author": "Scotty",
+  "dependencies": {}
+}
